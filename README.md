@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![ResQLearn Logo](public/logo.png)
+##Live -https://resqlearn.vercel.app/quizzes
 
 **Gamified Disaster Preparedness for Every Campus**
 
